@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img  alt="proffy"  title="#delicinha" src=".github/" width="250px" />
+  <img  alt="proffy"  title="#delicinha" src=".github/logo.svg" width="250px" />
   
   <h4 align="center">
       ✨ Plataforma de cursos online que alunos podem encontrar professores especialistas nas disciplinas e com horário adequado
