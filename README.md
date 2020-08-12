@@ -50,7 +50,7 @@
 
 ## ✨ Mobile
 
-<img  alt="proffy" title="#delicinha"  src=  "/.github/frontend.gif" />
+<img  alt="proffy" title="#delicinha"  src=  "/.github/mobile.gif" />
 
 
 
